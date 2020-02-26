@@ -1,0 +1,114 @@
+body{
+  background-color:40514E;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+.top-container{
+  background-color:#fbf4f9 ;
+  position: relative;
+  padding-top: 200px;
+}
+h1{
+  color:#79bac1;
+  font-size: 4rem;
+  margin-top:0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  padding-bottom: 10px;
+  color:#79bac1;
+  font-weight: normal;
+}
+h3{
+  color:#79bac1;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.pro{
+  text-decoration:underline;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.bottom-cloud{
+  width: 400px;
+  height: 150px;
+  position: absolute;
+  left:20px;
+  bottom: 200px;
+}
+.top-cloud{
+  width: 400px;
+  height: 150px;
+  position: absolute;
+  right: 20px;
+  top: 50px;
+}
+.img-skills{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.img-tec{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.middle-container{
+  margin:100px 0;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.btn{
+  text-decoration: none;
+color: rgb(255, 230, 230);
+font-size: 20px;
+padding: 20px;
+text-shadow: 0px -1px 11px rgba(30, 30, 221, 0.8);
+-webkit-border-radius: 33.24324324324324px;
+-moz-border-radius: 33.24324324324324px;
+border-radius: 33.24324324324324px;
+background: rgb(152, 147, 142);
+background: -moz-linear-gradient(90deg, rgb(152, 147, 142) 0%, rgb(53, 131, 204) 0%);
+background: -webkit-linear-gradient(90deg, rgb(152, 147, 142) 0%, rgb(53, 131, 204) 0%);
+background: -o-linear-gradient(90deg, rgb(152, 147, 142) 0%, rgb(53, 131, 204) 0%);
+background: -ms-linear-gradient(90deg, rgb(152, 147, 142) 0%, rgb(53, 131, 204) 0%);
+background: linear-gradient(0deg, rgb(152, 147, 142) 0%, rgb(53, 131, 204) 0%);
+-webkit-box-shadow: 0px 2px 20px rgba(34, 50, 50, 0.35);
+-moz-box-shadow:    0px 2px 20px rgba(34, 50, 50, 0.35);
+box-shadow:         0px 2px 20px rgba(34, 50, 50, 0.35);
+}
+.bottom-container{
+  background-color: #8ac6d1;
+  padding:50px 0 20px;
+}
+a{
+  margin:20px 50px;
+  text-decoration: none;
+  color: #2a7886;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color:white;
+  font-size: 0.75rem;
+}
